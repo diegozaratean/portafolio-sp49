@@ -3,7 +3,4 @@ Las tecnologias que manejo son:
 html
 css
 bootstrap
-
-
-React 
-Python
+command line
