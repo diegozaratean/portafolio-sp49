@@ -17,6 +17,6 @@ buenas practicas !!!
 
 otras buenas practicas
 
-nuevo boton 
+nuevo boton mejorado
 
 otro gran boton
